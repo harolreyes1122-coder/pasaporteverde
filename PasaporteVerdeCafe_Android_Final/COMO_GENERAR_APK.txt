@@ -1,0 +1,12 @@
+PASAPORTE VERDE CAFE - GENERAR APK EN GITHUB
+
+1. Cree un repositorio nuevo en GitHub.
+2. Suba TODO el contenido de esta carpeta al repositorio.
+3. Abra la pestaña Actions.
+4. Seleccione "Build Android APK".
+5. Pulse "Run workflow".
+6. Cuando termine, abra la ejecución y descargue el artefacto:
+   PasaporteVerdeCafe-APK
+7. Dentro estará PasaporteVerdeCafe.apk listo para instalar en Android.
+
+No es necesario instalar Android Studio en su computadora.
